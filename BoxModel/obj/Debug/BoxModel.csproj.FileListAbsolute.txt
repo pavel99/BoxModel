@@ -1,0 +1,6 @@
+E:\SEIP Training\HomePractice\BoxModel\BoxModel\bin\BoxModel.dll.config
+E:\SEIP Training\HomePractice\BoxModel\BoxModel\bin\BoxModel.dll
+E:\SEIP Training\HomePractice\BoxModel\BoxModel\bin\BoxModel.pdb
+E:\SEIP Training\HomePractice\BoxModel\BoxModel\obj\Debug\BoxModel.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\BoxModel\BoxModel\obj\Debug\BoxModel.dll
+E:\SEIP Training\HomePractice\BoxModel\BoxModel\obj\Debug\BoxModel.pdb

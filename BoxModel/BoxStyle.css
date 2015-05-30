@@ -1,0 +1,25 @@
+﻿body {
+}
+.box1 {
+    width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: red;
+
+}
+.box2 {
+  
+    padding: 50px;
+    background-color: blueviolet;
+
+}
+.box3 {
+   
+    padding: 50px;
+     background-color: blue;
+}
+.box4 {
+
+    padding: 50px;
+    background-color: ghostwhite;
+}
